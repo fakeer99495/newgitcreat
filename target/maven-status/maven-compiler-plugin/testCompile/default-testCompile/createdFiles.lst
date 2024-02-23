@@ -1,0 +1,8 @@
+pages\AddAccountOR.class
+stepdef\Hooks.class
+stepdef\TestRunner.class
+stepdef\LoginDef.class
+stepdef\NewAccount.class
+pages\AddNewCustomerOR.class
+stepdef\AddNewCustomer.class
+pages\LoginOR.class
